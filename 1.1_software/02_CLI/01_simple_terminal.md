@@ -28,7 +28,7 @@ Learn how to check where you are and explore folders.
 `images/CLI_step1.jpg`
 
 `images/CLI_step2.jpg`
-
+JJHGGFGH
 `images/CLI_step3.jpg`
 
 `images/CLI_step4.jpg`
